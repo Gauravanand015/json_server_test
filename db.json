@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firts_name": "abc",
+      "last_name": "xyz",
+      "age": 100
+    }
+  ],
+  "cars":[
+    {
+        "id":"1",
+        "name":"mustang"
+    }
+  ]
+}
